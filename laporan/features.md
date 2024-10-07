@@ -1,14 +1,13 @@
 # Features this App
 
-Nama Aplikasi :
+Nama Aplikasi :SIMPATI – Sistem Inventaris Monitoring dan Pantau Temperatur 
 
-Kelompok :
+Kelompok :diskoperindag
 
 ## Pengguna
 
 1. Admin
-2. Pegawai
-3. Siswa (users)
+2. Pegawai 
 
 ## Menu
 
@@ -18,8 +17,8 @@ Kelompok :
 - user
 - users
 - pegawai
-- seminar
-- nilai
+- monitoring suhu dan kelembaban
+- inventaris alat standar
 - logout
 - backup db
 
@@ -28,8 +27,8 @@ Kelompok :
 - login
 - user
 - profile (ubah username & password)
-- seminar
-- nilai
+- monitoring suhu dan kelembaban
+- inventaris alat standar
 - Logout
 
 **Untuk Pengguna 3(Users/Siswa)**
@@ -59,12 +58,11 @@ Kelompok :
 - user-ubah.php 1.3.1 (V)
 - user-perbaharui.php 1.3.2 (P)
 
-4. Seminar
+4. Monitor
 
-- seminar-tampil.php (V)
-- seminar-detail.php (V)
-- seminar-print.php (V)
-- seminar-aktivasi.php (V)
+- monitor-tampil.php (V)
+- monitor-detail.php (V)
+- monitor-print.php (V)
 - seminar-aktifkan.php (P)
 
 5. Nilai
